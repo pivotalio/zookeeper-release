@@ -1,4 +1,4 @@
-zookeeper/zookeeper-3.4.10.tar.gz:
-  size: 35042811
-  object_id: 868354bd-c49e-41b7-49a9-b110091a82af
-  sha: eb2145498c5f7a0d23650d3e0102318363206fba
+zookeeper/zookeeper-3.4.12.tar.gz:
+  size: 36667596
+  object_id: 888354bd-c49e-41b7-49a9-b110091a8777
+  sha: 8e2cc8784794e24df90fa1a9dbe6cd1695c79a44
